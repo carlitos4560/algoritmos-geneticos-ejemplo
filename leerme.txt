@@ -1,0 +1,9 @@
+
+###################################################
+###### Es necesario para implementar
+###### tener instalado visualCode
+###### gcc
+###### se ara la implementacion en C
+###################################################
+
+
